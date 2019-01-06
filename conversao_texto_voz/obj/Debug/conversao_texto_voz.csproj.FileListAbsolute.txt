@@ -1,0 +1,9 @@
+c:\projetos\net\conversao_texto_voz\conversao_texto_voz\bin\Debug\conversao_texto_voz.exe.config
+c:\projetos\net\conversao_texto_voz\conversao_texto_voz\bin\Debug\conversao_texto_voz.exe
+c:\projetos\net\conversao_texto_voz\conversao_texto_voz\bin\Debug\conversao_texto_voz.pdb
+c:\projetos\net\conversao_texto_voz\conversao_texto_voz\obj\Debug\conversao_texto_voz.csprojResolveAssemblyReference.cache
+c:\projetos\net\conversao_texto_voz\conversao_texto_voz\obj\Debug\conversao_texto_voz.FrmPrincipal.resources
+c:\projetos\net\conversao_texto_voz\conversao_texto_voz\obj\Debug\conversao_texto_voz.Properties.Resources.resources
+c:\projetos\net\conversao_texto_voz\conversao_texto_voz\obj\Debug\conversao_texto_voz.csproj.GenerateResource.Cache
+c:\projetos\net\conversao_texto_voz\conversao_texto_voz\obj\Debug\conversao_texto_voz.exe
+c:\projetos\net\conversao_texto_voz\conversao_texto_voz\obj\Debug\conversao_texto_voz.pdb
